@@ -1,0 +1,7 @@
+Archive.zip
+bin/
+gen/
+.project/
+.classpath
+.DS_Store
+
