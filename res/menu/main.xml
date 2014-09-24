@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.matiaspalacios.trabajofinal.MainActivity" >
+
+    <item
+        android:id="@+id/country_selection"
+        android:orderInCategory="100"
+        android:title="@string/country_selection"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/countries_submenu1"
+                android:title="@string/argentina"/>
+            <item
+                android:id="@+id/countries_submenu2"
+                android:title="@string/colombia"/>
+            <item
+                android:id="@+id/countries_submenu3"
+                android:title="@string/usa"/>
+        </menu>
+    </item>
+
+</menu>
