@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trabajo Final</string>
+    <string name="welcome_message">Welcome to your Movies Database.</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_selection">Select Country</string>
+    <string name="argentina">Argentina</string>
+    <string name="colombia">Colombia</string>
+    <string name="usa">USA</string>
+    <string name="title_activity_view_movie_detail">ViewMovieDetailActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="runtime">Runtime: </string>
+    <string name="placeholder_movie_title">Movie Title</string>
+    <string name="placeholder_movie_runtime">Movie runtime</string>
+    <string name="txt_minutes">minutes</string>
+    <string name="txt_title">Title: </string>
+    <string name="txt_year">Year: </string>
+    <string name="txt_runtime">Duration: </string>
+    <string name="txt_release_date">Release Date: </string>
+    <string name="txt_critics_score">Critics Score: </string>
+    <string name="txt_audience_score">Audience Score: </string>
+    <string name="txt_custom_note">Add custom note: </string>
+    <string name="btn_add_to_favorites">Update Movie</string>
+    <string name="btn_back">Back</string>
+    <string name="txt_menu_show_favorites">Show Favorites</string>
+
+</resources>
